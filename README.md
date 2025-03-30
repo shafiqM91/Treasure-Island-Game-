@@ -1,4 +1,4 @@
-<h1>JWipe - Disk Sanitization</h1>
+<h1>Treasure Game Project</h1>
 
 <h2>Demo</h2> https://appbrewery.github.io/python-day3-demo/
 
